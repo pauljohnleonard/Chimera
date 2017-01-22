@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera
+END
+ChimeraApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/ChimeraApp.java
+END
+GamePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/GamePanel.java
+END
+HighScoreDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/HighScoreDialog.java
+END
+Score.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/Score.java
+END
+MySprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/MySprite.java
+END
+ChimeraApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/ChimeraApplet.java
+END
+SpriteMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/SpriteMover.java
+END
+WaveSpriteMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/WaveSpriteMover.java
+END
+GameOverPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/GameOverPanel.java
+END
+TargetSpriteMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/chimera/TargetSpriteMover.java
+END

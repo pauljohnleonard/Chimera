@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/audio/mp3
+END
+AudioBufferListClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/audio/mp3/AudioBufferListClip.java
+END
+MP3AudioReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/audio/mp3/MP3AudioReader.java
+END
+jlp.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/audio/mp3/jlp.java
+END
+MP3Clip.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/audio/mp3/MP3Clip.java
+END
+BlockingCyclicBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/183/trunk/ArcadeGame/src/uk/co/drpj/audio/mp3/BlockingCyclicBuffer.java
+END
